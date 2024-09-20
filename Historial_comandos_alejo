@@ -1,0 +1,144 @@
+sudo apt install git
+pene
+sudo install git
+apt install git
+sudo install apt git
+clear
+sudo dnf install git
+ssh-keygen
+ls -l
+ssh-keygen
+ls -l
+cat hola.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICNmozKbyCY89vwSj/8v9BWsCUu9Zss6gegBXBPJwBko root@10.0.2.15
+cv repogit
+cv
+cd
+cv repogit
+cd /home/amiceli/
+cd repogit
+git clone
+git clone git@github.com:AlejoMiceli04/TP_AySO.git
+cd TP_AySO
+cd TP_AySO/
+cd.
+cd .
+ls
+cd ..
+clear
+ssh-keygen
+ls -la
+cat trabajo.pub
+git clone git@github.com:AlejoMiceli04/TP_AySO.git
+git clone https://github.com/AlejoMiceli04/TP_AySO.git
+cd repogit
+cd TP_AySO/
+git clone https://github.com/AlejoMiceli04/TP_AySO.git
+cd TP_AySO/
+ls
+whoami
+echo
+echo "usuario=(whoami)"
+echo "pene"
+echo "usuario=(whoami)" >> datosusuarios.txt
+ls -l
+ls
+ls -help
+ls -e
+ls --e
+ls --help
+clear
+git add .
+git config --global user.email "alejomiceli04@gmail.com"
+git config --global user.name "AlejoMiceli04"
+git commit -m "ADD: datosusuario"
+git push
+git status
+mkidr test
+mkdir test
+git status
+ls
+test cd
+cd test
+cd ..slash
+cd ../
+cd test
+cd ../
+cd ./test
+touch test.txt
+ls
+clear
+git status
+git add.
+git add
+git add test
+git add .
+git status
+git
+ls
+github
+git commit
+cd TP_AySO/
+ECHO "PENE}
+
+cd TP_AySO/
+
+W
+
+
+sudo apt install git
+sudo dnf install git
+git --version
+ls -la
+cd 20sept/
+asd
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+cat datos_usuario.txt
+git status
+git add .
+git status
+ls
+mv datos_usuario.txt TP_AySO/
+cd TP_AySO/
+git add .
+git status
+cat cpuinfo
+cat /proc/cpuinfo
+grep -i "model name" /proc/cpuinfo
+grep -i "model name" /proc/cpuinfo | tail -n1
+grep -i "model name" /proc/cpuinfo | head -n1
+grep -i "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt 
+git commit -m "feat: anadiendo informacion de CPU"
+pdw
+pwd
+grep -v nologin /etc/passwd 
+grep -v nologin /etc/passwd  | head 
+grep -v nologin /etc/passwd  | head  | sort -k 7
+grep -v nologin /etc/passwd  | head  | sort -k 7 >> lista_ordenada
+ls -la
+ git add lista_ordenada 
+git commit -m "ADD: Listado de usuarios ordenada"
+man tcpdump
+echo "tcpdump" > comando_dump_net
+git add comando_dump_net 
+git commit -m "ADD: Comando para capturar y analizar el trafico de la red"
+cat << FIN >> README.md
+alumno: Alejo
+Division: 114
+turno: Mañana
+FIN 
+FIN
+
+git status
+git add README.md 
+git commit -m "feat: modifico el readme"
+history -a >> $HOME/.bash_history
