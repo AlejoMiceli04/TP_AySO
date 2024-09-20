@@ -1,0 +1,5 @@
+amiceli:x:1000:1000:Alejo Miceli:/home/amiceli:/bin/bash
+halt:x:7:0:halt:/sbin:/sbin/halt
+root:x:0:0:Super User:/root:/bin/bash
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+sync:x:5:0:sync:/sbin:/bin/sync
